@@ -1,14 +1,13 @@
 {
   "name": "node-googlehome",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "main": "index.js",
-  "repository": "https://github.com/Ghostrick/node-googlehome",
-  "author": "_Ghostrick_ <ghostrick.kinako@gmail.com>",
+  "repository": "https://github.com/Oizopower/node-googlehome",
+  "author": "_Ghostrick_ <ghostrick.kinako@gmail.com> Modified by Oizopower",
   "license": "MIT",
   "dependencies": {
     "castv2-client": "^1.2.0",
     "google-tts-api": "^0.0.4",
-    "mdns": "^2.4.0",
     "mime-types": "^2.1.21"
   }
 }
